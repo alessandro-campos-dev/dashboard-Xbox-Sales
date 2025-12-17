@@ -1,0 +1,8 @@
+# Guia de Uso do Dashboard
+
+1. Acesse a aba Base
+2. Atualize os dados de vendas
+3. Verifique os cálculos na aba Cálculos
+4. Visualize os resultados na aba Dashboard
+
+O dashboard é atualizado automaticamente.
